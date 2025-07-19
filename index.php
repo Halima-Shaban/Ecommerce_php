@@ -1,6 +1,6 @@
 <?php  include "header.php";?>
 <?php  include "footer.php";?>
-<h1> home page</h1>
+<h1>Hello from home page</h1>
 <?php
 
 $name = "halima";
